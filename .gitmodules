@@ -4,3 +4,6 @@
 [submodule "plugins/customer_plugin"]
 	path = plugins/customer_plugin
 	url = git@github.com:splbio/customer_plugin.git
+[submodule "plugins/redmine_power_subtasks"]
+	path = plugins/redmine_power_subtasks
+	url = git@github.com:splbio/redmine_power_subtasks.git
