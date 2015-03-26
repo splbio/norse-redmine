@@ -1,3 +1,6 @@
 [submodule "plugins/redmine_simple_support"]
 	path = plugins/redmine_simple_support
 	url = git@github.com:splbio/redmine_simple_support.git
+[submodule "plugins/customer_plugin"]
+	path = plugins/customer_plugin
+	url = git@github.com:splbio/customer_plugin.git
