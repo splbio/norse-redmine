@@ -10,3 +10,6 @@
 [submodule "plugins/chiliproject_custom_css_js"]
 	path = plugins/chiliproject_custom_css_js
 	url = https://github.com/edavis10/chiliproject_custom_css_js.git
+[submodule "plugins/redmine_norse"]
+	path = plugins/redmine_norse
+	url = git@github.com:splbio/redmine_norse.git
